@@ -12,6 +12,7 @@ Firewall rules:
         Play To streaming server (HTTP-Streaming-In) - Local
         Media Center Extenders - HTTP Streaming (TCP-In) - Local
         Connect to a Network Projector (WSD EventsSecure-Out) - Local
+        
 Inbound: 3
 Outbound: 2
 
