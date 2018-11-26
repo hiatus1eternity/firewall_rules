@@ -1,0 +1,1 @@
+Get-NetFirewallRule | Out-File -filepath rules.txt 
